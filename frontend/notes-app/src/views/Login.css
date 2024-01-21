@@ -1,0 +1,21 @@
+.body {
+    display: flex;
+    justify-content: center;
+}
+
+.container{
+    background-color: white;
+}
+
+.login {
+    border: 3px solid #000000;
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    background-color: white;
+}
+
+.login-form {
+    width: 300px;
+}
